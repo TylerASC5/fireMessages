@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Gudea:700');
+@import url('https://fonts.googleapis.com/css?family=Hanalei+Fill');
+@import url('https://fonts.googleapis.com/css?family=Hanalei+Fill|Kirang+Haerang');
 /* GOOGLE FONTS */
 
 /* font-family: 'Fredericka the Great', cursive; */
@@ -10,9 +12,9 @@
 /* https://coolors.co/36151e-839791-593f62-e3b23c-edebd7 */
 
 :root {
-    --primaryDark: #36151E;
+    --primaryDark:turquoise;
     --primaryLight: #EDEBD7;
-    --accent: #E3B23C;
+    --accent:green;
     --alternate: #593F62;
     --addedPadding: 10px;
 }
@@ -35,13 +37,12 @@ body {
 h1,
 label,
 #submitButton {
-    font-family: 'Fredericka the Great', cursive;
-    font-weight: bold;
+    font-family: 'Kirang Haerang', cursive;
 }
 
 input,
 .allMessages>p {
-    font-family: 'Gudea', sans-serif;
+    font-family: 'Kirang Haerang', cursive;
 }
 
 h1 {
